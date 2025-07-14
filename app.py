@@ -299,9 +299,8 @@ st.markdown(f"""
             box-shadow: 2px 2px 6px #00000099;
         }}
 
-        .stSelectbox>div>div {{
-            font-size: 1.1rem;
-            color: black;
+        .css-1d391kg, .css-1wa3eu0-placeholder, .stSelectbox div div {{
+            color: white !important;
         }}
 
         .stAlert {{
